@@ -1,0 +1,39 @@
+<h1>Discharge Activities</h1>
+
+<table class="table, table table-bordered">
+  <tr>
+    <th>JK_ID</th>
+    <th>MAIN_ACTIVITY_DATE</th>
+    <th>TAV_MONTH</th>
+    <th>TAV_YEAR</th>
+    <th>MAIN_ACTIVITY_NAME</th>
+    <th>MAIN_ACTIVITY_STATUS</th>
+    <th>DISCHARGE_DISPOSITION</th>
+    <th>SUB_ACTIVITY_DATE</th>
+    <th>SUB_ACTIVITY_NAME</th>
+    <th>SUB_ACTIVITY_STATUS</th>
+    <th>DAY_DIFFERENCE</th>
+    <th>COUNT1</th>
+    <th>COUNT2</th>
+    <th>COUNT3</th>
+  </tr>
+
+<% @discharge_activities.each do |activity| %>
+  <tr>
+    <td><%= activity.JK_ID %></td>
+    <td><%= activity.MAIN_ACTIVITY_DATE %></td>
+    <td><%= activity.TAV_MONTH %></td>
+    <td><%= activity.TAV_YEAR %></td>
+    <td><%= activity.MAIN_ACTIVITY_NAME %></td>
+    <td><%= activity.MAIN_ACTIVITY_STATUS %></td>
+    <td><%= activity.DISCHARGE_DISPOSITION %></td>
+    <td><%= activity.SUB_ACTIVITY_DATE %></td>
+    <td><%= activity.SUB_ACTIVITY_NAME %></td>
+    <td><%= activity.SUB_ACTIVITY_STATUS %></td>
+    <td><%= activity.DAY_DIFFERENCE %></td>
+    <td><%= activity.COUNT1 %></td>
+    <td><%= activity.COUNT2 %></td>
+    <td><%= activity.COUNT3 %></td>
+  </tr>
+  <% end %>
+</table>

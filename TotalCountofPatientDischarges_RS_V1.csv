@@ -1,0 +1,814 @@
+JK_ID,MAIN_ACTIVITY_DATE,TAV_MONTH,TAV_YEAR,MAIN_ACTIVITY_NAME,MAIN_ACTIVITY_STATUS,DISCHARGE_DISPOSITION,SUB_ACTIVITY_DATE,SUB_ACTIVITY_NAME,SUB_ACTIVITY_STATUS,DAY_DIFFERENCE,COUNT1,COUNT2,COUNT3
+24A2678-2664374,10/7/2016,10,2016,Patient Discharge,Successful,Home,10/14/2016,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+25A4787-2681000,10/5/2016,10,2016,Patient Discharge,Successful,Home,10/7/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A5002-2579105,10/13/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/17/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A6023-2654370,10/13/2016,10,2016,Patient Discharge,Successful,Home,10/18/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+28A359-2668369,10/27/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/31/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+32A158-2721885,10/14/2016,10,2016,Patient Discharge,Successful,Home,10/17/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+38A076-2672595,10/8/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/10/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+24A6816-2655949,10/1/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/3/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+30A451-2839913,10/18/2016,10,2016,Patient Discharge,Successful,Home,10/20/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+25A6839-2703126,10/27/2016,10,2016,Patient Discharge,Successful,Home,11/1/2016,48-Hour Follow-Up Call,No Longer Necessary,5,1,0,0
+23A2143-2653112,10/4/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/6/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A4497-2653104,10/5/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/7/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+36A637-2668363,10/21/2016,10,2016,Patient Discharge,Successful,Home,10/24/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+19A4562-2623408,10/12/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/17/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A5338-2579106,10/14/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/18/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+30A732-2680998,10/22/2016,10,2016,Patient Discharge,Successful,Home,10/24/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+16A506-2675054,10/28/2016,10,2016,Patient Discharge,Successful,Home,11/1/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+25A4788-2681001,10/6/2016,10,2016,Patient Discharge,Successful,Home,10/10/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+24A0049-2617909,10/24/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/26/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+24A6743-2629928,10/12/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/14/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+12A3655-2675055,10/22/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/24/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+33A468-2620363,10/20/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/24/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+26A560-2484404,10/31/2016,10,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+24A4765-2667148,10/30/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,11/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+25A2733-2691840,10/27/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/31/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+31A397-2653101,10/14/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/18/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A1556-2620361,10/28/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/28/2016,48-Hour Follow-Up Call,Successful,0,1,1,1
+15A409-2581438,10/19/2016,10,2016,Patient Discharge,Successful,Home,10/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+25A1927-2690205,10/20/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/24/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+33A543-2690204,10/19/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+35A903-2672596,10/28/2016,10,2016,Patient Discharge,Successful,Home,11/1/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A0502-2620364,10/19/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/21/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+24A4495-2653100,10/27/2016,10,2016,Patient Discharge,Successful,Home,10/31/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A797-2650131,10/5/2016,10,2016,Patient Discharge,Successful,Home,10/7/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+34A659-2686247,10/27/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/31/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+25A8698-2686246,10/26/2016,10,2016,Patient Discharge,Successful,Home,10/31/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+25A4792-2681009,10/29/2016,10,2016,Patient Discharge,Successful,Home,10/31/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A787-2716604,10/26/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/31/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+23A5107-2653861,10/12/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/18/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,6,1,0,0
+25A4791-2681008,10/29/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/31/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A0052-2617913,10/19/2016,10,2016,Patient Discharge,Successful,Home,10/21/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+39A535-2713910,10/18/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/21/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+18A6342-2565723,10/15/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/17/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+14A5876-2828377,10/25/2016,10,2016,Patient Discharge,Successful,Home,10/28/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+25A0813-2675056,10/9/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A1557-2620362,10/13/2016,10,2016,Patient Discharge,Successful,Home,10/17/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+38A216-2667150,10/15/2016,10,2016,Patient Discharge,Successful,Home,10/18/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+24A0050-2617910,10/29/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+25A1926-2690201,10/26/2016,10,2016,Patient Discharge,Successful,Home,10/31/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A935-2664372,10/14/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/17/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+17A399-2411892,10/10/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/17/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+26A8500-2844649,10/27/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/28/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+17A531-2713909,10/19/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A6745-2629930,10/6/2016,10,2016,Patient Discharge,Successful,Home,10/10/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+25A2735-2691842,10/12/2016,10,2016,Patient Discharge,Successful,Home,10/14/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+20A022-2617908,10/24/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/27/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,3,1,0,0
+24A1655-2572548,10/14/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/17/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,3,1,0,0
+25A4786-2680999,10/6/2016,10,2016,Patient Discharge,Successful,Home,10/10/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+32A731-2655944,10/6/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/11/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A8461-2584307,10/8/2016,10,2016,Patient Discharge,Successful,Home,10/10/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+23A5438-2701736,10/6/2016,10,2016,Patient Discharge,Successful,Home,10/11/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+34A993-2665591,10/27/2016,10,2016,Patient Discharge,Successful,Home,10/31/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A0345-2548972,10/2/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/4/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+18A1126-2629931,10/3/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/5/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A5136-2593983,10/29/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/31/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A4766-2667149,10/21/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/25/2016,48-Hour Follow-Up Call,No Longer Necessary,4,1,0,0
+27A710-2642708,10/2/2016,10,2016,Patient Discharge,Successful,Home Health Care,10/4/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A5339-2579107,10/15/2016,10,2016,Patient Discharge,Successful,Home,10/17/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A3269-2592750,10/8/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/10/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+39A669-2617912,10/27/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,11/1/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A1561-2620374,10/27/2016,10,2016,Patient Discharge,Successful,Acute Rehab,10/31/2016,48-Hour Follow-Up Call,No Longer Necessary,4,1,0,0
+25A2734-2691841,10/27/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,11/1/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A0051-2700428,10/24/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,,,,,1,0,0
+25A1928-2690206,10/19/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A086-2691843,10/14/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/17/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+18A250-2547090,10/19/2016,10,2016,Patient Discharge,Successful,Home,10/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A4453-2619025,10/25/2016,10,2016,Patient Discharge,Successful,Home,10/31/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+25A4793-2681010,10/6/2016,10,2016,Patient Discharge,Successful,Home,10/14/2016,48-Hour Follow-Up Call,Unsuccessful,8,1,0,0
+20A6608-2642716,10/10/2016,10,2016,Patient Discharge,Successful,Skilled Nursing Facility,10/12/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,2,1,0,0
+16A806-2667154,10/29/2016,10,2016,Patient Discharge,Successful,Home,11/1/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+26A2226-2806121,10/26/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+25A6902-2683851,10/18/2016,10,2016,Patient Discharge,Successful,Home,10/21/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+12A4301-2687594,10/20/2016,10,2016,Patient Discharge,Successful,Home,10/24/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+21A312-2721882,10/26/2016,10,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A0053-2617917,9/26/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/29/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,3,1,0,0
+26A972-2528641,9/23/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/26/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A029-2642717,9/27/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A1560-2620373,9/16/2016,9,2016,Patient Discharge,Successful,Home,9/20/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A0054-2617920,9/10/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/15/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A0850-2618880,9/9/2016,9,2016,Patient Discharge,Successful,Home,9/12/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+23A9573-2471904,9/15/2016,9,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+24A9640-2537930,9/24/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/27/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A8736-2548979,9/22/2016,9,2016,Patient Discharge,Successful,Home,9/30/2016,48-Hour Follow-Up Call,Successful,8,1,1,0
+23A436-2669891,9/22/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/26/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A0842-2618870,9/19/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/21/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,2,1,0,0
+24A4006-2576769,9/19/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/22/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A0629-2576768,9/22/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/27/2016,48-Hour Follow-Up Call,Unsuccessful,5,1,0,0
+23A9514-2504074,9/14/2016,9,2016,Patient Discharge,Successful,Home,9/20/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+35A674-2653113,9/23/2016,9,2016,Patient Discharge,Successful,Home Health Care,9/26/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A8464-2584310,9/2/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/6/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A030-2620378,9/15/2016,9,2016,Patient Discharge,Successful,Acute Rehab,9/19/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A684-2579112,9/2/2016,9,2016,Patient Discharge,Successful,Home Health Care,9/6/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A5527-2620372,9/16/2016,9,2016,Patient Discharge,Successful,Home,9/22/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+15A067-2570355,9/10/2016,9,2016,Patient Discharge,Successful,Home Health Care,9/16/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A4697-2560005,9/3/2016,9,2016,Patient Discharge,Successful,Home Health Care,9/5/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+24A6157-2515059,9/12/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/14/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A5831-2531341,9/24/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/26/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+30A937-2629932,9/30/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/3/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A8037-2518046,9/9/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/12/2016,48-Hour Follow-Up Call,No Longer Necessary,3,1,0,0
+24A4008-2576772,9/8/2016,9,2016,Patient Discharge,Successful,Home,9/15/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+22A0351-2629937,9/7/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/9/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A4422-2552150,9/1/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/7/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+24A790-2629940,9/15/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/19/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A9643-2520553,9/26/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/29/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,3,1,0,0
+23A3557-2495057,9/15/2016,9,2016,Patient Discharge,Successful,Home Health Care,9/20/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A109-2623410,9/15/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/21/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+24A8462-2584308,9/15/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/22/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+16A169-2489117,9/8/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/12/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+13A7825-2489116,9/7/2016,9,2016,Patient Discharge,Successful,Home,9/9/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+13A082-2548973,9/30/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/4/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A1558-2620368,9/28/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/30/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+13A888-2576773,9/3/2016,9,2016,Patient Discharge,Successful,Home,9/7/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+24A5340-2579114,9/1/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/7/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+24A7286-2533921,9/28/2016,9,2016,Patient Discharge,Successful,Home,9/30/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+29A278-2620366,9/30/2016,9,2016,Patient Discharge,Successful,Home,10/4/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A8394-2535877,9/3/2016,9,2016,Patient Discharge,Successful,null,9/7/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A6746-2629933,9/27/2016,9,2016,Patient Discharge,Successful,Home,9/30/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,3,1,0,0
+18A257-2486968,9/25/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/27/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A2047-2650133,9/30/2016,9,2016,Patient Discharge,Successful,Home,10/5/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+24A3739-2651496,9/30/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,10/4/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A3156-2623409,9/15/2016,9,2016,Patient Discharge,Successful,Home,9/20/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A5480-2562681,9/3/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/7/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A6747-2629936,9/21/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/23/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+18A651-2629935,9/23/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/26/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A1562-2620375,9/14/2016,9,2016,Patient Discharge,Successful,Home,9/20/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+20A9999-2506136,9/1/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/7/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+24A7869-2549923,9/1/2016,9,2016,Patient Discharge,Successful,Home,9/6/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+25A2736-2691845,9/27/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A9196-2552144,9/14/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/21/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+24A1564-2620377,9/15/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/20/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A0152-2570351,9/21/2016,9,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/27/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,6,1,0,0
+24A0055-2617921,9/8/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/12/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A1563-2620376,9/15/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/21/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,6,1,0,0
+23A9575-2471907,9/2/2016,9,2016,Patient Discharge,Successful,Home,9/6/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A7190-2548974,9/27/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A8036-2518045,9/21/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/23/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+23A5108-2650134,9/28/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/30/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+29A467-2570352,9/22/2016,9,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/27/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+20A2976-2627787,9/29/2016,9,2016,Patient Discharge,Successful,Home,9/30/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+24A4339-2528640,9/23/2016,9,2016,Patient Discharge,Successful,Home,9/27/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+25A375-2565729,8/12/2016,8,2016,Patient Discharge,Successful,Home,8/16/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A0589-2554379,8/25/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/29/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+24A4340-2528645,8/10/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/12/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+21A5118-2481706,8/11/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/15/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+19A0767-2463923,8/2/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/4/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A7097-2500576,8/11/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/18/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+24A4602-2512599,8/2/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/5/2016,48-Hour Follow-Up Call,No Longer Necessary,3,1,0,0
+19A9838-2552148,8/9/2016,8,2016,Patient Discharge,Successful,Home,8/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A5525-2380200,8/5/2016,8,2016,Patient Discharge,Successful,Home,8/18/2016,48-Hour Follow-Up Call,Successful,13,1,1,0
+31A655-2533913,8/3/2016,8,2016,Patient Discharge,Successful,Home,8/5/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A0845-2457548,8/2/2016,8,2016,Patient Discharge,Successful,Home,8/8/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+24A980-2466911,8/5/2016,8,2016,Patient Discharge,Successful,Home,8/8/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+32A843-2492591,8/3/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/5/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+13A432-2504076,8/4/2016,8,2016,Patient Discharge,Successful,Home,8/8/2016,48-Hour Follow-Up Call,No Longer Necessary,4,1,0,0
+23A6612-2399238,8/5/2016,8,2016,Patient Discharge,Successful,Home,8/8/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+26A065-2515410,8/5/2016,8,2016,Patient Discharge,Successful,Home,8/9/2016,48-Hour Follow-Up Call,No Longer Necessary,4,1,0,0
+12A4276-2487037,8/4/2016,8,2016,Patient Discharge,Successful,Home,8/8/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A9569-2525924,8/2/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/5/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+13A2373-2544433,8/27/2016,8,2016,Patient Discharge,Successful,Home,8/30/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A9554-2455442,8/8/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/16/2016,48-Hour Follow-Up Call,Successful,8,1,1,0
+23A5112-2396683,8/3/2016,8,2016,Patient Discharge,Successful,Home,8/5/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A7192-2548980,8/15/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/23/2016,48-Hour Follow-Up Call,Unsuccessful,8,1,0,0
+24A4164-2544434,8/27/2016,8,2016,Patient Discharge,Successful,Home,8/30/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+26A945-2528636,8/23/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/25/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+17A572-2544432,8/31/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/2/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+31A936-2544148,8/26/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/29/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+23A4699-2464156,8/27/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/30/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A8463-2584309,8/31/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/7/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+23A9517-2504079,8/1/2016,8,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Unsuccessful,0,1,0,0
+24A0590-2554381,8/23/2016,8,2016,Patient Discharge,Successful,Home,8/24/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+24A5482-2562684,8/24/2016,8,2016,Patient Discharge,Successful,Home Health Care,8/26/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+24A5835-2531347,8/23/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/24/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+24A4009-2576774,8/31/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/9/2016,48-Hour Follow-Up Call,Successful,9,1,1,0
+24A8396-2535879,8/27/2016,8,2016,Patient Discharge,Successful,Home,8/29/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+24A5837-2531351,8/24/2016,8,2016,Patient Discharge,Successful,Home,8/26/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+24A3731-2455443,8/25/2016,8,2016,Patient Discharge,Successful,Home,8/29/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+24A7189-2565270,8/31/2016,8,2016,Patient Discharge,Successful,Home,9/2/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A8622-2579111,8/31/2016,8,2016,Patient Discharge,Successful,Home,9/2/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A0588-2554377,8/30/2016,8,2016,Patient Discharge,Successful,Home,9/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+30A996-2552151,8/31/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,9/2/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,2,1,0,0
+25A030-2551948,8/26/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/29/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A1167-2547234,8/30/2016,8,2016,Patient Discharge,Successful,Home,9/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A7773-2565725,8/30/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A0833-2473901,8/25/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/27/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+15A239-2533925,8/18/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/22/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+25A923-2544435,8/25/2016,8,2016,Patient Discharge,Successful,Home,8/29/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+23A093-2533924,8/24/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/29/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A0567-2518048,8/12/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/15/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A4336-2528634,8/27/2016,8,2016,Patient Discharge,Successful,Home Health Care,8/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+28A587-2520554,8/21/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/22/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+23A031-2515057,8/17/2016,8,2016,Patient Discharge,Successful,Home,8/19/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+24A0154-2570359,8/24/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/26/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A5526-2498014,8/20/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/25/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A0986-2531342,8/26/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/29/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+23A9520-2504082,8/21/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/25/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+25A190-2455441,8/7/2016,8,2016,Patient Discharge,Successful,Home Health Care,8/9/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+24A5833-2531345,8/17/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/20/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A9644-2520555,8/17/2016,8,2016,Patient Discharge,Successful,Home,8/24/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+24A4601-2512598,8/17/2016,8,2016,Patient Discharge,Successful,Home,8/19/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A6421-2466914,8/13/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/15/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+23A6611-2399237,8/5/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/8/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+18A7866-2520557,8/3/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/5/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A0771-2506138,8/15/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/23/2016,48-Hour Follow-Up Call,Unsuccessful,8,1,0,0
+24A8465-2584311,8/31/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,9/6/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+24A5832-2531344,8/20/2016,8,2016,Patient Discharge,Successful,Home Health Care,8/24/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+13A6657-2203724,8/2/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+21A508-2531343,8/18/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/24/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A6419-2466912,8/16/2016,8,2016,Patient Discharge,Successful - Not Necessary,null,,,,,1,0,0
+23A6420-2466913,8/14/2016,8,2016,Patient Discharge,Successful,Home,8/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+24A9641-2537932,8/18/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/22/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A4643-2500575,8/16/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/19/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+13A7769-2506137,8/16/2016,8,2016,Patient Discharge,Successful,Home,8/23/2016,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+22A0993-2500573,8/11/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/15/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+40A952-2411907,8/10/2016,8,2016,Patient Discharge,Successful,Home,8/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A2949-2576761,8/24/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/29/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A311-2500579,8/4/2016,8,2016,Patient Discharge,Successful,Home,8/8/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+23A0832-2473900,8/13/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/15/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A2245-2409390,8/13/2016,8,2016,Patient Discharge,Successful,Against Medical Advice,8/16/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,3,1,0,0
+24A5838-2531352,8/7/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/18/2016,48-Hour Follow-Up Call,Successful,11,1,1,0
+22A0796-2541635,8/7/2016,8,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/9/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A0052-2533676,8/13/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/15/2016,48-Hour Follow-Up Call,No Longer Necessary,2,1,0,0
+16A296-2481704,8/18/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/24/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A0846-2457549,8/5/2016,8,2016,Patient Discharge,Successful,Home,8/8/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+29A756-2506139,8/15/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/23/2016,48-Hour Follow-Up Call,Unsuccessful,8,1,0,0
+18A726-2500574,8/11/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/18/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+32A822-2500578,8/3/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/8/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+23A9519-2504081,8/22/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/26/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+23A1148-2574453,8/31/2016,8,2016,Patient Discharge,Successful,Home,9/6/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A1140-2345819,8/3/2016,8,2016,Patient Discharge,Successful,Home,8/5/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A9198-2552146,8/18/2016,8,2016,Patient Discharge,Successful,Home,8/22/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A7099-2500580,8/5/2016,8,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/8/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+24A3794-2576766,8/18/2016,8,2016,Patient Discharge,Successful,Home,8/22/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+22A1549-2328184,7/10/2016,7,2016,Patient Discharge,Successful,Home,7/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A7261-2484407,7/29/2016,7,2016,Patient Discharge,Successful,Home Health Care,8/3/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+36A294-2504083,7/24/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/26/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A4452-2378106,7/29/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/2/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A9568-2471898,7/26/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/1/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A4455-2378109,7/26/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+38A288-2399233,7/21/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/25/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+18A683-2396163,7/23/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/27/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A3634-2411838,7/28/2016,7,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+14A5725-2464149,7/14/2016,7,2016,Patient Discharge,Successful,Skilled Nursing Facility,7/20/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A5104-2484406,7/26/2016,7,2016,Patient Discharge,Successful,Home,7/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+14A5654-2355688,7/27/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/2/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+22A6805-2338092,7/23/2016,7,2016,Patient Discharge,Successful,Skilled Nursing Facility,7/27/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+23A4453-2378107,7/26/2016,7,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A9571-2471902,7/29/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/5/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+23A3745-2394213,7/28/2016,7,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+23A9521-2520558,7/29/2016,7,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A4698-2464155,7/26/2016,7,2016,Patient Discharge,Successful,Home,7/29/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A2244-2409388,7/17/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/19/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+27A150-2416652,7/22/2016,7,2016,Patient Discharge,Successful,Home,7/25/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A530-2459161,7/15/2016,7,2016,Patient Discharge,Successful,Home,7/19/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+26A560-2484404,7/15/2016,7,2016,Patient Discharge,Successful,Home,7/18/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+23A5438-2481681,7/28/2016,7,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A5109-2396680,7/22/2016,7,2016,Patient Discharge,Successful,Home,7/28/2016,48-Hour Follow-Up Call,Unsuccessful,6,1,0,0
+23A988-2396679,7/22/2016,7,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+40A477-2466685,7/20/2016,7,2016,Patient Discharge,Successful,Home,7/22/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+23A8025-2469458,7/28/2016,7,2016,Patient Discharge,Successful,Home,8/3/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+22A0842-2328254,7/11/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/12/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+23A7314-2364883,7/9/2016,7,2016,Patient Discharge,Successful,Home,7/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A7304-2383104,7/7/2016,7,2016,Patient Discharge,Successful,Home,7/11/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+22A1005-2311866,7/14/2016,7,2016,Patient Discharge,Successful,Home,7/18/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+22A634-2399232,7/14/2016,7,2016,Patient Discharge,Successful,Skilled Nursing Facility,7/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A6571-2401587,7/16/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A7089-2338356,7/16/2016,7,2016,Patient Discharge,Successful,Home,7/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A7306-2383109,7/14/2016,7,2016,Patient Discharge,Successful,Home Health Care,7/18/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+27A035-2464154,7/15/2016,7,2016,Patient Discharge,Successful,Home,7/18/2016,48-Hour Follow-Up Call,No Longer Necessary,3,1,0,0
+21A8020-2297725,7/14/2016,7,2016,Patient Discharge,Successful,Home,7/18/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+17A783-2314410,7/14/2016,7,2016,Patient Discharge,Successful,Acute Rehab,7/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A8556-2385271,7/14/2016,7,2016,Patient Discharge,Successful,Home,7/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A403-2466905,7/14/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+20A5015-2290355,7/13/2016,7,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+23A1433-2364911,7/13/2016,7,2016,Patient Discharge,Successful,Home,7/19/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+17A035-2471897,7/23/2016,7,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+23A3558-2495058,7/23/2016,7,2016,Patient Discharge,Successful,Home,7/26/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A346-2364458,7/9/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/14/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A9489-2489109,7/11/2016,7,2016,Patient Discharge,Successful,Home Health Care,7/14/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A6610-2399234,7/19/2016,7,2016,Patient Discharge,Successful,Home,7/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A0176-2489118,7/20/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/25/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A3744-2394205,7/6/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/12/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A5460-2481702,7/22/2016,7,2016,Patient Discharge,Successful,Against Medical Advice,7/25/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+23A1132-2345812,7/6/2016,7,2016,Patient Discharge,Successful,Home,7/8/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+23A5106-2396669,7/1/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,,,,,1,0,0
+37A307-2345823,7/1/2016,7,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful,5,1,0,0
+21A912-2471900,7/27/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/29/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+23A9567-2471896,7/17/2016,7,2016,Patient Discharge,Successful,Home,7/19/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A758-2399235,7/27/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+32A666-2473899,7/28/2016,7,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A3969-2520559,7/29/2016,7,2016,Patient Discharge,Successful,Skilled Nursing Facility,8/1/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A0173-2489113,7/30/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A4454-2378108,7/29/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/4/2016,48-Hour Follow-Up Call,No Longer Necessary,6,1,0,0
+15A6221-2378112,7/15/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,,,,,1,0,0
+21A6801-2364670,7/2/2016,7,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+22A1457-2232053,7/6/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/12/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+23A4696-2464143,7/8/2016,7,2016,Patient Discharge,Successful,Home,7/11/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+25A118-2464148,7/15/2016,7,2016,Patient Discharge,Successful,Home,7/21/2016,48-Hour Follow-Up Call,Unsuccessful,6,1,0,0
+37A489-2464153,7/14/2016,7,2016,Patient Discharge,Successful,null,7/20/2016,48-Hour Follow-Up Call,Unsuccessful,6,1,0,0
+22A2635-2469455,7/17/2016,7,2016,Patient Discharge,Successful,Home,7/19/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A3874-2399236,7/28/2016,7,2016,Patient Discharge,Successful,Home,8/1/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+36A852-2469457,7/22/2016,7,2016,Patient Discharge,Successful,Home,7/25/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A4456-2378110,7/14/2016,7,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+23A4461-2378124,7/7/2016,7,2016,Patient Discharge,Successful,Home,7/11/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A6417-2466909,7/29/2016,7,2016,Patient Discharge,Successful,Home Health Care,8/3/2016,48-Hour Follow-Up Call,No Longer Necessary,5,1,0,0
+23A4460-2378123,7/7/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/11/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A4459-2378122,7/6/2016,7,2016,Patient Discharge,Successful,Home,7/7/2016,48-Hour Follow-Up Call,Unsuccessful,1,1,0,0
+22A371-2378121,7/6/2016,7,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+23A6415-2466904,7/15/2016,7,2016,Patient Discharge,Successful,Skilled Nursing Facility,7/18/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+32A079-2323227,7/20/2016,7,2016,Patient Discharge,Successful,Home,7/22/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+23A5111-2396682,7/31/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/3/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A5107-2396677,7/20/2016,7,2016,Patient Discharge,Successful,Home,7/22/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+23A7854-2484405,7/29/2016,7,2016,Patient Discharge,Successful,Home Health Care,8/1/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A5777-2396675,7/14/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/18/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+24A2890-2509791,7/23/2016,7,2016,Patient Discharge,Successful,Home,7/25/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+33A598-2396188,7/25/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/28/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A3630-2411831,7/14/2016,7,2016,Patient Discharge,Successful,Skilled Nursing Facility,7/15/2016,48-Hour Follow-Up Call,Unsuccessful,1,1,0,0
+27A564-2464147,7/14/2016,7,2016,Patient Discharge,Successful,Home,7/18/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+23A8024-2469456,7/16/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/21/2016,48-Hour Follow-Up Call,Unsuccessful,5,1,0,0
+21A0169-2396143,7/24/2016,7,2016,Patient Discharge,Successful,Home,7/29/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+23A5525-2380200,7/22/2016,7,2016,Patient Discharge,Successful,Home,7/28/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,6,1,0,0
+23A2324-2347844,7/14/2016,7,2016,Patient Discharge,Successful,Home,7/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A5110-2396681,7/31/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,8/2/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+29A726-2466671,7/22/2016,7,2016,Patient Discharge,Successful,Outpatient Physical Therapy,7/25/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+30A196-2459159,7/27/2016,7,2016,Patient Discharge,Successful,Home,8/2/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+21A6306-2132875,6/23/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/27/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+22A1405-2312307,6/17/2016,6,2016,Patient Discharge,Successful,Acute Rehab,6/20/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+22A8488-2345807,6/29/2016,6,2016,Patient Discharge,Successful,Home,7/11/2016,48-Hour Follow-Up Call,Unsuccessful,12,1,0,0
+26A440-2321279,6/27/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/30/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+22A7967-2323234,6/24/2016,6,2016,Patient Discharge,Successful,Home,6/27/2016,48-Hour Follow-Up Call,No Longer Necessary,3,1,0,0
+27A379-2273734,6/8/2016,6,2016,Patient Discharge,Successful,Home,6/10/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+23A9051-2360345,6/8/2016,6,2016,Patient Discharge,Successful,Home,6/10/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A3071-2323481,6/2/2016,6,2016,Patient Discharge,Successful,Home,6/3/2016,48-Hour Follow-Up Call,Unsuccessful,1,1,0,0
+32A958-2297734,6/9/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/14/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+27A253-2378137,6/23/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/29/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,6,1,0,0
+33A013-2352854,6/15/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/17/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A9800-2309956,6/18/2016,6,2016,Patient Discharge,Successful,Home,6/21/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+23A986-2345920,6/9/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/13/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A6799-2321283,6/14/2016,6,2016,Patient Discharge,Successful,Home,6/16/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A6800-2321285,6/15/2016,6,2016,Patient Discharge,Successful,Home,6/17/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A7090-2338358,6/27/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/30/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+38A162-2341063,6/26/2016,6,2016,Patient Discharge,Successful,Home,6/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A3954-2323480,6/9/2016,6,2016,Patient Discharge,Successful,Home,6/13/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A0319-2327335,6/24/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/28/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A2027-2297731,6/24/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/28/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A6773-2270339,6/25/2016,6,2016,Patient Discharge,Successful,Home,6/27/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A4910-2355681,6/10/2016,6,2016,Patient Discharge,Successful,Home Health Care,,,,,1,0,0
+23A1424-2364878,6/25/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/27/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+14A3960-2378132,6/24/2016,6,2016,Patient Discharge,Successful,Home,6/29/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+23A4465-2340944,6/23/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/28/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A1126-2251711,6/10/2016,6,2016,Patient Discharge,Successful,Home,6/24/2016,48-Hour Follow-Up Call,Unsuccessful,14,1,0,0
+23A4464-2378135,6/21/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/24/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+23A5104-2396666,6/21/2016,6,2016,Patient Discharge,Successful,Home,6/23/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A1327-2364743,6/23/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/27/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A426-2323241,6/23/2016,6,2016,Patient Discharge,Successful,Home,6/27/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A0307-2327318,6/8/2016,6,2016,Patient Discharge,Successful,Home,6/10/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A1062-2327618,6/10/2016,6,2016,Patient Discharge,Successful,Home,6/13/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+22A1171-2323482,6/20/2016,6,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+22A1609-2328264,6/1/2016,6,2016,Patient Discharge,Successful,Home,6/3/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+30A897-2327585,6/22/2016,6,2016,Patient Discharge,Successful,Home,6/23/2016,48-Hour Follow-Up Call,Unsuccessful,1,1,0,0
+22A5598-2303241,6/10/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/13/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+29A047-2328259,6/22/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/27/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+19A7350-2328214,6/9/2016,6,2016,Patient Discharge,Successful,Home,6/17/2016,48-Hour Follow-Up Call,Unsuccessful,8,1,0,0
+19A072-2347845,6/22/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/28/2016,48-Hour Follow-Up Call,Unsuccessful,6,1,0,0
+26A411-2347846,6/22/2016,6,2016,Patient Discharge,Successful,Home,6/27/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+14A1920-2341061,6/21/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/23/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+34A894-2341053,6/15/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/24/2016,48-Hour Follow-Up Call,Unsuccessful,9,1,0,0
+23A1126-2345801,6/22/2016,6,2016,Patient Discharge,Successful,Home,6/28/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+22A4301-2264007,6/12/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/14/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+18A126-2328256,6/30/2016,6,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,6,1,0,0
+17A315-2328262,6/9/2016,6,2016,Patient Discharge,Successful,Home Health Care,6/20/2016,48-Hour Follow-Up Call,Unsuccessful,11,1,0,0
+23A4463-2251409,6/27/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/27/2016,48-Hour Follow-Up Call,Successful,0,1,1,1
+33A171-2311848,6/15/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/22/2016,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+22A8591-2341048,6/11/2016,6,2016,Patient Discharge,Successful,Home,6/14/2016,48-Hour Follow-Up Call,No Longer Necessary,3,1,0,0
+22A1046-2327583,6/16/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/20/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+21A530-2268495,6/16/2016,6,2016,Patient Discharge,Successful,Home,6/20/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+20A5146-2046412,6/13/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/15/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A353-2270291,6/18/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/23/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+14A570-2352865,6/9/2016,6,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+28A620-2309864,6/7/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/9/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+15A7003-2343540,6/23/2016,6,2016,Patient Discharge,Successful,Home,6/27/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A1206-2345895,6/29/2016,6,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+23A4466-2338184,6/19/2016,6,2016,Patient Discharge,Successful,Home,6/23/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A5105-2396668,6/29/2016,6,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,7,1,0,0
+19A8774-2321300,6/8/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/13/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A4903-2352867,6/10/2016,6,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+14A235-2399222,6/26/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A6462-2355690,6/17/2016,6,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+20A676-2328255,6/30/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,7/4/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+22A0620-2311535,6/9/2016,6,2016,Patient Discharge,Successful,Home,6/10/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,1,1,0,0
+22A6612-2352862,6/30/2016,6,2016,Patient Discharge,Successful,Home,7/4/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+19A3985-2345816,6/29/2016,6,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+26A150-2328257,6/29/2016,6,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,7,1,0,0
+25A046-2293713,6/3/2016,6,2016,Patient Discharge,Successful,Home,6/6/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A5048-2355686,6/3/2016,6,2016,Patient Discharge,Successful,Home,6/6/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+13A408-2378130,6/28/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/30/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+38A719-2303243,6/10/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/13/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+15A534-2345897,6/29/2016,6,2016,Patient Discharge,Successful,Home,7/6/2016,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+15A1957-2323247,6/16/2016,6,2016,Patient Discharge,Successful,Home Health Care,6/20/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+14A5471-2287279,6/1/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/3/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+23A1315-2364726,6/13/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/15/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+15A736-2268490,6/4/2016,6,2016,Patient Discharge,Successful,Home,6/9/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A2011-2297712,6/3/2016,6,2016,Patient Discharge,Successful,Home,6/6/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+23A6218-2355382,6/22/2016,6,2016,Patient Discharge,Successful,Home,6/28/2016,48-Hour Follow-Up Call,Unsuccessful,6,1,0,0
+13A653-2293912,6/6/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/23/2016,48-Hour Follow-Up Call,Unsuccessful,17,1,0,0
+19A6462-2251847,6/11/2016,6,2016,Patient Discharge,Successful,Home,6/13/2016,48-Hour Follow-Up Call,No Longer Necessary,2,1,0,0
+22A0994-2296103,6/2/2016,6,2016,Patient Discharge,Successful,Home,6/6/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+35A652-2328265,6/2/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/6/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+22A5252-2309955,6/16/2016,6,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/21/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A7967-2323234,6/30/2016,6,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+21A468-2328258,6/26/2016,6,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A4842-2355685,5/7/2016,5,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+17A695-2277333,5/26/2016,5,2016,Patient Discharge,Successful,Home,5/30/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+40A561-2284364,5/11/2016,5,2016,Patient Discharge,Successful,Home,5/13/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A1458-2232054,5/4/2016,5,2016,Patient Discharge,Successful,Home,5/7/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A1456-2232052,5/5/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/9/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+20A2320-2293706,5/25/2016,5,2016,Patient Discharge,Successful,Home,5/27/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A9522-2293792,5/23/2016,5,2016,Patient Discharge,Successful,Home,5/25/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A0309-2240900,5/11/2016,5,2016,Patient Discharge,Successful,Home,5/23/2016,48-Hour Follow-Up Call,Unsuccessful,12,1,0,0
+21A9629-2196099,5/1/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/3/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A9402-2246724,5/7/2016,5,2016,Patient Discharge,Successful,Home,5/9/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A1042-2273732,5/9/2016,5,2016,Patient Discharge,Successful,Home,5/12/2016,48-Hour Follow-Up Call,No Longer Necessary,3,1,0,0
+22A1044-2273733,5/6/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/9/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A415-2264129,5/18/2016,5,2016,Patient Discharge,Successful,Home,5/23/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A7500-2240901,5/5/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/10/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+22A2212-2297982,5/21/2016,5,2016,Patient Discharge,Successful,Home,5/23/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+15A094-2253593,5/7/2016,5,2016,Patient Discharge,Successful,Home,5/9/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+18A837-2233528,5/2/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/9/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+25A063-2251846,5/2/2016,5,2016,Patient Discharge,Successful,Home,5/4/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+25A227-2229948,5/3/2016,5,2016,Patient Discharge,Successful,Home,5/5/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A8607-2227339,5/1/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/3/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A6760-2270324,5/2/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/5/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+29A136-2255312,5/2/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/4/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A116-2273735,5/25/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/31/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+22A5566-2253699,5/6/2016,5,2016,Patient Discharge,Successful,Home,5/9/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A2386-2279853,5/6/2016,5,2016,Patient Discharge,Successful,Home,5/9/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A1051-2274981,5/7/2016,5,2016,Patient Discharge,Successful,Home,5/10/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A7173-2142751,5/5/2016,5,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+22A1028-2249469,5/5/2016,5,2016,Patient Discharge,Successful,null,5/9/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+18A192-2150800,5/5/2016,5,2016,Patient Discharge,Successful,Home,5/9/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A5512-2266020,5/18/2016,5,2016,Patient Discharge,Successful,Home,5/20/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A3018-2245384,5/4/2016,5,2016,Patient Discharge,Successful,Home,5/6/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A5486-2268322,5/3/2016,5,2016,Patient Discharge,Successful,Home,5/5/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A5655-2268496,5/20/2016,5,2016,Patient Discharge,Successful,Home,5/23/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A5657-2268498,5/18/2016,5,2016,Patient Discharge,Successful,Home,5/20/2016,48-Hour Follow-Up Call,No Longer Necessary,2,1,0,0
+25A381-2270326,5/10/2016,5,2016,Patient Discharge,Successful,Home,5/13/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+22A3851-2235635,5/11/2016,5,2016,Patient Discharge,Successful,Home,5/13/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A1457-2232053,5/5/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/11/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+29A752-2266027,5/11/2016,5,2016,Patient Discharge,Successful,Home,5/13/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A7101-2270797,5/5/2016,5,2016,Patient Discharge,Successful,Home,5/11/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+26A414-2313892,5/17/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+22A6768-2255529,5/13/2016,5,2016,Patient Discharge,Successful,Home,5/18/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A8274-2289036,5/16/2016,5,2016,Patient Discharge,Successful,Home,5/20/2016,48-Hour Follow-Up Call,No Longer Necessary,4,1,0,0
+22A6765-2255527,5/13/2016,5,2016,Patient Discharge,Successful,Home,5/17/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A5502-2253736,5/5/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/9/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+20A4184-2028446,5/19/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/23/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+22A6782-2270348,5/14/2016,5,2016,Patient Discharge,Successful,Home,5/18/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+25A864-2255490,5/13/2016,5,2016,Patient Discharge,Successful,Home,5/16/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+25A307-2258283,5/19/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/26/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+14A486-2306926,5/19/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/23/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+19A7237-2197878,5/18/2016,5,2016,Patient Discharge,Successful,Home,5/20/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A930-2230022,5/17/2016,5,2016,Patient Discharge,Successful,Home,5/22/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A4860-2302027,5/26/2016,5,2016,Patient Discharge,Successful,Home Health Care,5/30/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A0308-2235630,5/11/2016,5,2016,Patient Discharge,Successful,Home,5/20/2016,48-Hour Follow-Up Call,Successful,9,1,1,0
+18A651-2251949,5/16/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/20/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A4474-2251950,5/14/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/16/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A6762-2255518,5/18/2016,5,2016,Patient Discharge,Successful,Home,5/20/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A5544-2253652,5/6/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/9/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+22A3749-2300325,5/21/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/24/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+13A961-2246808,5/25/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/30/2016,48-Hour Follow-Up Call,Unsuccessful,5,1,0,0
+27A105-2343352,5/19/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+31A383-2297714,5/25/2016,5,2016,Patient Discharge,Successful,Home,5/27/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A8814-2273736,5/26/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,6/2/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+14A350-2163188,5/18/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/20/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+27A172-2352868,5/19/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/30/2016,48-Hour Follow-Up Call,Unsuccessful,11,1,0,0
+39A411-2355450,5/20/2016,5,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+22A0973-2251556,5/20/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/23/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+21A3940-2209728,5/18/2016,5,2016,Patient Discharge,Successful,Home,5/20/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A0852-2197873,5/27/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,6/1/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A5049-2355683,5/5/2016,5,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+22A8235-2307462,5/25/2016,5,2016,Patient Discharge,Successful,Home,5/27/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A8281-2307559,5/24/2016,5,2016,Patient Discharge,Successful,Home,6/1/2016,48-Hour Follow-Up Call,Successful,8,1,1,0
+22A6753-2275171,5/6/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/9/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+21A765-2255523,5/23/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+22A9019-2323485,5/23/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/25/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A6609-2411202,5/11/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/18/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,7,1,0,0
+39A634-2255512,5/20/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/23/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+25A348-2337800,5/26/2016,5,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+18A838-2233759,5/11/2016,5,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/13/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A7501-2240903,5/12/2016,5,2016,Patient Discharge,Successful,Home,5/23/2016,48-Hour Follow-Up Call,Unsuccessful,11,1,0,0
+13A6657-2203724,4/11/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/15/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A1167-2323484,4/11/2016,4,2016,Patient Discharge,Successful,Home,4/15/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A1355-2235517,4/8/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/11/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+22A8637-2227368,4/8/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/13/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,5,1,0,0
+22A6550-2355684,4/26/2016,4,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+16A2143-2355667,4/28/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+22A4352-2264127,4/28/2016,4,2016,Patient Discharge,Successful,Home,5/2/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+21A5762-2189480,4/10/2016,4,2016,Patient Discharge,Successful,Home,4/12/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A0470-2230127,4/21/2016,4,2016,Patient Discharge,Successful,Home,4/26/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A4840-2115891,4/20/2016,4,2016,Patient Discharge,Successful,Home,4/22/2016,48-Hour Follow-Up Call,No Longer Necessary,2,1,0,0
+21A8740-2141890,4/15/2016,4,2016,Patient Discharge,Successful,Home,4/18/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+22A0352-2229947,4/23/2016,4,2016,Patient Discharge,Successful,Home,4/25/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+19A2915-2268280,4/27/2016,4,2016,Patient Discharge,Successful,Home,4/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A4299-2264003,4/30/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/3/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+22A0349-2229944,4/20/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/2/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,12,1,0,0
+21A9380-2281813,4/23/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/27/2016,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+24A023-2132869,4/15/2016,4,2016,Patient Discharge,Successful,Home,4/19/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A1313-2213923,4/15/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/19/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A0857-2197876,4/15/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/21/2016,48-Hour Follow-Up Call,No Longer Necessary,6,1,0,0
+23A074-2229938,4/14/2016,4,2016,Patient Discharge,Successful,Acute Rehab,4/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A5623-2253733,4/29/2016,4,2016,Patient Discharge,Successful,Home,5/3/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A5367-2253605,4/19/2016,4,2016,Patient Discharge,Successful,Home,4/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A0434-2230025,4/12/2016,4,2016,Patient Discharge,Successful,Home,4/15/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A0836-2197846,4/7/2016,4,2016,Patient Discharge,Successful,Home Health Care,4/11/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+21A8731-2141883,4/8/2016,4,2016,Patient Discharge,Successful,Home,4/11/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A5136-2130873,4/9/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,4/11/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A4030-2251385,4/21/2016,4,2016,Patient Discharge,Successful,Home,4/25/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+21A8743-2141907,4/8/2016,4,2016,Patient Discharge,Successful,Home,4/12/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+21A6722-2153207,4/1/2016,4,2016,Patient Discharge,Successful,Home,4/4/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+22A1152-2247063,4/30/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,5/3/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+22A6151-2246882,4/29/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/4/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,5,1,0,0
+13A6620-2115880,4/8/2016,4,2016,Patient Discharge,Successful,Home,4/12/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+22A0348-2229943,4/20/2016,4,2016,Patient Discharge,Successful,Home,4/26/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+35A566-2189498,4/7/2016,4,2016,Patient Discharge,Successful,Home,4/11/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+24A826-2229939,4/14/2016,4,2016,Patient Discharge,Successful,Home,4/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A0350-2229945,4/13/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,4/15/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+21A9383-2157211,4/4/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,4/6/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,2,1,0,0
+21A5252-2153065,4/15/2016,4,2016,Patient Discharge,Successful,Home,4/18/2016,48-Hour Follow-Up Call,No Longer Necessary,3,1,0,0
+21A8964-2142721,4/13/2016,4,2016,Patient Discharge,Successful,Home,4/15/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A8978-2142737,4/22/2016,4,2016,Patient Discharge,Successful,Home,4/26/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+21A6468-2133275,4/15/2016,4,2016,Patient Discharge,Successful,Home,4/18/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A6467-2133269,4/22/2016,4,2016,Patient Discharge,Successful,Home,4/26/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+21A7661-2120332,4/20/2016,4,2016,Patient Discharge,Successful,Home,4/22/2016,48-Hour Follow-Up Call,No Longer Necessary,2,1,0,0
+21A7651-2120322,4/8/2016,4,2016,Patient Discharge,Successful,Home,4/12/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+21A2165-2087179,4/1/2016,4,2016,Patient Discharge,Successful,Home,4/4/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+22A3204-2235492,4/19/2016,4,2016,Patient Discharge,Successful,Home,4/21/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A0353-2233814,4/27/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/3/2016,48-Hour Follow-Up Call,Unsuccessful,6,1,0,0
+22A1011-2231181,4/21/2016,4,2016,Patient Discharge,Successful,Home,4/26/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A4782-2115829,4/1/2016,4,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+21A2765-2100959,4/1/2016,4,2016,Patient Discharge,Successful,Home,4/4/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+22A6756-2270317,4/28/2016,4,2016,Patient Discharge,Successful,Home,4/29/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+22A0796-2253731,4/26/2016,4,2016,Patient Discharge,Successful,Home,4/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A2877-2163198,4/27/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/3/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+22A130-2163191,4/28/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/3/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+20A211-2209564,4/22/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,,,,,1,0,0
+22A5361-2268071,4/28/2016,4,2016,Patient Discharge,Successful,Home,4/29/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+22A8622-2209765,4/3/2016,4,2016,Patient Discharge,Successful,Home,4/4/2016,48-Hour Follow-Up Call,Unsuccessful,1,1,0,0
+22A6331-2227553,4/1/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/4/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A9004-2251948,4/26/2016,4,2016,Patient Discharge,Successful,Home Health Care,4/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A8062-2191504,4/27/2016,4,2016,Patient Discharge,Successful,Home,4/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A5122-2230023,4/28/2016,4,2016,Patient Discharge,Successful,Home,4/29/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+21A6211-2132849,4/28/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,5/3/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+32A731-2233810,4/8/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/13/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,5,1,0,0
+21A8727-2141877,4/27/2016,4,2016,Patient Discharge,Successful,Home,4/29/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A2086-2233369,4/23/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,4/25/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+22A3920-2235781,4/24/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,4/26/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+37A187-2133290,4/25/2016,4,2016,Patient Discharge,Successful,Outpatient Physical Therapy,4/25/2016,48-Hour Follow-Up Call,Successful,0,1,1,1
+39A532-2227345,4/15/2016,4,2016,Patient Discharge,Successful,Home,4/19/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+34A075-2275180,4/27/2016,4,2016,Patient Discharge,Successful,Home,5/2/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A6326-2230011,4/1/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/14/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,13,1,0,0
+23A986-2163193,4/14/2016,4,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/19/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+22A192-2132789,3/16/2016,3,2016,Patient Discharge,Successful,Home,3/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+27A700-2105327,3/29/2016,3,2016,Patient Discharge,Successful,Acute Rehab,3/31/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+18A8196-2132836,3/23/2016,3,2016,Patient Discharge,Successful,Home,3/25/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A4742-2100957,3/18/2016,3,2016,Patient Discharge,Successful,null,3/22/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+23A155-2204584,3/24/2016,3,2016,Patient Discharge,Successful,Home,3/28/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+21A789-2166838,3/15/2016,3,2016,Patient Discharge,Successful,Home,3/18/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A9372-2282145,3/22/2016,3,2016,Patient Discharge,Successful,Home,3/24/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+12A4038-2130851,3/3/2016,3,2016,Patient Discharge,Successful,Home,3/7/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,4,1,0,0
+23A383-2199612,3/18/2016,3,2016,Patient Discharge,Successful,Home,3/21/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A6741-2153210,3/30/2016,3,2016,Patient Discharge,Successful,Home,4/4/2016,48-Hour Follow-Up Call,Unsuccessful - Patient Deceased,5,1,0,0
+21A7122-2169017,3/27/2016,3,2016,Patient Discharge,Successful,Home,3/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+13A332-2166771,3/26/2016,3,2016,Patient Discharge,Successful,Home,3/29/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A6475-2189318,3/31/2016,3,2016,Patient Discharge,Successful,Skilled Nursing Facility,4/5/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+27A553-2132833,3/30/2016,3,2016,Patient Discharge,Successful,Home,4/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A6336-2230015,3/30/2016,3,2016,Patient Discharge,Successful,Home,4/4/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A7815-2120431,3/9/2016,3,2016,Patient Discharge,Successful,Home,3/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+30A415-2132778,3/16/2016,3,2016,Patient Discharge,Successful,Home,3/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A758-2189470,3/26/2016,3,2016,Patient Discharge,Successful,Home,3/28/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+21A5123-2130864,3/22/2016,3,2016,Patient Discharge,Successful,Home,3/28/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,6,1,0,0
+23A926-2132780,3/25/2016,3,2016,Patient Discharge,Successful,Home,4/6/2016,48-Hour Follow-Up Call,Unsuccessful,12,1,0,0
+30A316-2169097,3/12/2016,3,2016,Patient Discharge,Successful,Home,3/15/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+31A752-2161377,3/24/2016,3,2016,Patient Discharge,Successful,Acute Rehab,3/31/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+21A4614-2115808,3/2/2016,3,2016,Patient Discharge,Successful,Home,3/8/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+21A8161-2155376,3/10/2016,3,2016,Patient Discharge,Successful,Home,3/14/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+21A2761-2100955,3/23/2016,3,2016,Patient Discharge,Successful,Home,3/25/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+21A6410-2133182,3/25/2016,3,2016,Patient Discharge,Successful,Skilled Nursing Facility,3/28/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+21A1927-2281788,3/16/2016,3,2016,Patient Discharge,Successful,Home,3/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+26A856-2157134,3/12/2016,3,2016,Patient Discharge,Successful,Skilled Nursing Facility,3/15/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A4088-2061513,3/12/2016,3,2016,Patient Discharge,Successful,Home,3/14/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+16A009-2105329,3/9/2016,3,2016,Patient Discharge,Successful,Home,3/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+32A959-2087166,3/11/2016,3,2016,Patient Discharge,Successful,Home,3/14/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+31A573-2163208,3/23/2016,3,2016,Patient Discharge,Successful,Home,3/29/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+21A9382-2107248,3/22/2016,3,2016,Patient Discharge,Successful,Home,3/24/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+12A3728-2123625,3/16/2016,3,2016,Patient Discharge,Successful,Home,3/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+22A5252-2189475,3/30/2016,3,2016,Patient Discharge,Successful,Home,4/18/2016,48-Hour Follow-Up Call,Unsuccessful,19,1,0,0
+21A7614-2140166,3/14/2016,3,2016,Patient Discharge,Successful,Home,3/15/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+21A3918-2164981,3/16/2016,3,2016,Patient Discharge,Successful,Home,3/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A7822-2120438,3/9/2016,3,2016,Patient Discharge,Successful,Home,3/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A0804-2109403,3/8/2016,3,2016,Patient Discharge,Successful,Home,3/11/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A3844-2150791,3/17/2016,3,2016,Patient Discharge,Successful,Home,3/22/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A2053-2087126,3/16/2016,3,2016,Patient Discharge,Successful,Home,3/18/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+34A129-2147825,3/12/2016,3,2016,Patient Discharge,Successful,Home,3/14/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+21A2874-2163195,3/19/2016,3,2016,Patient Discharge,Successful,Home,3/21/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+21A4925-2153142,3/3/2016,3,2016,Patient Discharge,Successful,Skilled Nursing Facility,3/7/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+26A849-2147829,3/17/2016,3,2016,Patient Discharge,Successful,Home,3/22/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A5661-2166845,3/30/2016,3,2016,Patient Discharge,Successful,Home,4/4/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A6202-2132845,3/24/2016,3,2016,Patient Discharge,Successful,Home,3/31/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+37A451-2044209,2/4/2016,2,2016,Patient Discharge,Successful,Home,2/8/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A2356-2010444,2/1/2016,2,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+20A0492-2022805,2/6/2016,2,2016,Patient Discharge,Successful,Home,2/8/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A0767-2132865,2/29/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,3/2/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A4184-2028446,2/12/2016,2,2016,Patient Discharge,Successful,Home,2/15/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A5146-2046412,2/14/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/17/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A0862-2109459,2/21/2016,2,2016,Patient Discharge,Successful,Home,2/24/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A8864-2052258,2/28/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,3/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A1378-2096150,2/25/2016,2,2016,Patient Discharge,Successful,Home,2/29/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+34A502-2052255,2/21/2016,2,2016,Patient Discharge,Successful,Home,2/23/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+20A261-2044221,2/19/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/22/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A257-2105311,2/24/2016,2,2016,Patient Discharge,Successful,Home Health Care,2/26/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A6968-2105373,2/25/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/29/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+15A698-2142727,2/28/2016,2,2016,Patient Discharge,Successful,Home,3/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+28A740-2105370,2/24/2016,2,2016,Patient Discharge,Successful,Home,2/29/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+20A8859-2052253,2/22/2016,2,2016,Patient Discharge,Successful,Home,2/22/2016,48-Hour Follow-Up Call,Successful,0,1,1,1
+33A714-2132774,2/25/2016,2,2016,Patient Discharge,Successful,Home,2/29/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A5149-2046429,2/18/2016,2,2016,Patient Discharge,Successful,Home,2/22/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+34A066-2044211,2/18/2016,2,2016,Patient Discharge,Successful,Acute Rehab,2/20/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A4255-2103339,2/19/2016,2,2016,Patient Discharge,Successful,Home,2/22/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+21A2693-2100867,2/18/2016,2,2016,Patient Discharge,Successful,Home,2/19/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+13A818-2038191,2/14/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/22/2016,48-Hour Follow-Up Call,Unsuccessful,8,1,0,0
+20A8785-2120420,2/25/2016,2,2016,Patient Discharge,Successful,Home,3/4/2016,48-Hour Follow-Up Call,Successful,8,1,1,0
+21A6020-2118215,2/17/2016,2,2016,Patient Discharge,Successful,Home,2/22/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A4624-2115819,2/28/2016,2,2016,Patient Discharge,Successful,Home,3/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A4606-2115799,2/24/2016,2,2016,Patient Discharge,Successful,Home,2/26/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A7420-2034189,2/11/2016,2,2016,Patient Discharge,Successful,Home,2/13/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A0506-2022818,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+32A234-2010230,2/11/2016,2,2016,Patient Discharge,Successful,Home,2/15/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+20A1129-2039923,2/11/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,1,1,1,1
+20A0499-2022811,2/12/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/22/2016,48-Hour Follow-Up Call,Unsuccessful,10,1,0,0
+20A2370-2010465,2/9/2016,2,2016,Patient Discharge,Successful,Acute Rehab,2/13/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A5460-2028442,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A6969-2105375,2/25/2016,2,2016,Patient Discharge,Successful,Home,2/29/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A0502-2022815,2/11/2016,2,2016,Patient Discharge,Successful,Home,2/16/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+15A677-2105363,2/24/2016,2,2016,Patient Discharge,Successful,Home Health Care,2/26/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+33A305-2105266,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/13/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+40A806-2169057,2/15/2016,2,2016,Patient Discharge,Successful,Home,2/17/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+20A0409-2103317,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+15A8032-2077309,2/4/2016,2,2016,Patient Discharge,Successful,Home,2/9/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+21A0771-2109348,2/23/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/25/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A0488-2022802,2/5/2016,2,2016,Patient Discharge,Successful,Home,2/9/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A507-2100934,2/18/2016,2,2016,Patient Discharge,Successful,Home,2/22/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+21A7813-2120432,2/22/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/25/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A1150-2056513,2/28/2016,2,2016,Patient Discharge,Successful,Home Health Care,3/1/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+18A0797-2076393,2/4/2016,2,2016,Patient Discharge,Successful,Home,2/8/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A931-2075796,2/27/2016,2,2016,Patient Discharge,Successful,Home,2/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+40A617-2010450,2/1/2016,2,2016,Patient Discharge,Successful,Home,2/3/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A3742-2044229,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A3479-2043942,2/18/2016,2,2016,Patient Discharge,Successful,Home,2/25/2016,48-Hour Follow-Up Call,Successful,7,1,1,0
+20A3735-2044217,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A3733-2044215,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A2976-266593,2/10/2016,2,2016,Patient Discharge,Successful,Home,2/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+32A901-2039944,2/6/2016,2,2016,Patient Discharge,Successful,Home,2/8/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A0075-2038190,2/2/2016,2,2016,Patient Discharge,Successful,Home,2/4/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+37A247-2022820,2/5/2016,2,2016,Patient Discharge,Successful,Home,2/9/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+35A652-2044224,2/20/2016,2,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/22/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+16A298-230888,1/17/2016,1,2016,Patient Discharge,Successful,Home,1/19/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A2320-2010385,1/23/2016,1,2016,Patient Discharge,Successful,Home,1/25/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A445-239863,1/10/2016,1,2016,Patient Discharge,Successful,Home,1/12/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A3721-267398,1/13/2016,1,2016,Patient Discharge,Successful,Home,1/22/2016,48-Hour Follow-Up Call,Unsuccessful,9,1,0,0
+20A2567-289333,1/8/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A0309-261642,1/11/2016,1,2016,Patient Discharge,Successful,Home,1/22/2016,48-Hour Follow-Up Call,Unsuccessful,11,1,0,0
+20A0408-285063,1/23/2016,1,2016,Patient Discharge,Successful,Home,1/25/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+31A070-285066,1/20/2016,1,2016,Patient Discharge,Successful,null,1/23/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+15A0184-299050,1/19/2016,1,2016,Patient Discharge,Successful,Home,1/24/2016,48-Hour Follow-Up Call,Unsuccessful,5,1,0,0
+20A6315-2016570,1/30/2016,1,2016,Patient Discharge,Successful,Home,2/2/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+14A5153-2039941,1/30/2016,1,2016,Patient Discharge,Successful,Home,2/3/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+34A787-2006037,1/29/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/1/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A9226-282698,1/27/2016,1,2016,Patient Discharge,Successful,Home,2/1/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+20A2349-2010432,1/29/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,2/1/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A2978-266595,1/13/2016,1,2016,Patient Discharge,Successful,Home,1/15/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+20A2980-266599,1/13/2016,1,2016,Patient Discharge,Successful,Home,1/15/2016,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+22A303-2001173,1/26/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,1/28/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+29A076-255274,1/7/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A2332-2010394,1/27/2016,1,2016,Patient Discharge,Successful,Home,1/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+25A652-2010417,1/27/2016,1,2016,Patient Discharge,Successful,Home,1/29/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+21A5375-2166637,1/23/2016,1,2016,Patient Discharge,Successful,Home Health Care,1/25/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A2568-289334,1/17/2016,1,2016,Patient Discharge,Successful,Home,1/19/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+33A625-234098,1/7/2016,1,2016,Patient Discharge,Successful,Home Health Care,1/12/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+20A0401-285055,1/17/2016,1,2016,Patient Discharge,Successful,Home,1/22/2016,48-Hour Follow-Up Call,Unsuccessful,5,1,0,0
+23A439-242532,1/10/2016,1,2016,Patient Discharge,Successful,Home,1/15/2016,48-Hour Follow-Up Call,Unsuccessful - Final Attempt,5,1,0,0
+19A8776-219391,1/15/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,1/18/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,3,1,0,0
+38A246-261645,1/14/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,1/18/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,4,1,0,0
+20A1378-244721,1/6/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,Successful,5,1,1,1
+20A1373-244707,1/7/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,1/11/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A2364-2010457,1/22/2016,1,2016,Patient Discharge,Successful,Home,1/25/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+26A151-242077,1/7/2016,1,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+15A7241-242483,1/6/2016,1,2016,Patient Discharge,Successful,Home,1/8/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A1376-244719,1/7/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A1375-244717,1/8/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A1385-244727,1/12/2016,1,2016,Patient Discharge,Successful,Acute Rehab,1/14/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A8774-219390,1/13/2016,1,2016,Patient Discharge,Successful,Home,1/15/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A2169-2010241,1/6/2016,1,2016,Patient Discharge,Successful,Home,1/8/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+37A368-244728,1/9/2016,1,2016,Patient Discharge,Successful,Home,1/12/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+15A935-2038161,1/23/2016,1,2016,Patient Discharge,Successful,Home,1/25/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+36A935-239907,1/13/2016,1,2016,Patient Discharge,Successful,Home,,,,,1,0,0
+20A1382-244725,1/9/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+15A3618-238845,1/15/2016,1,2016,Patient Discharge,Successful,Home Health Care,1/18/2016,48-Hour Follow-Up Call,Successful,3,1,1,1
+17A1320-2022556,1/21/2016,1,2016,Patient Discharge,Successful,Home,1/25/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A0403-285058,1/15/2016,1,2016,Patient Discharge,Successful,Home,1/18/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+37A827-285056,1/17/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,1/19/2016,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+20A1388-244730,1/9/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A0295-261629,1/7/2016,1,2016,Patient Discharge,Successful,Home,1/11/2016,48-Hour Follow-Up Call,No Longer Necessary,4,1,0,0
+20A8210-2001175,1/21/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,1/25/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A3378-2012444,1/15/2016,1,2016,Patient Discharge,Successful,Home,1/22/2016,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+13A370-285062,1/20/2016,1,2016,Patient Discharge,Successful,Home,1/23/2016,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+19A8763-219381,1/21/2016,1,2016,Patient Discharge,Successful,Home,1/25/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A2370-2010465,1/13/2016,1,2016,Patient Discharge,Successful,Home,1/28/2016,48-Hour Follow-Up Call,Unsuccessful,15,1,0,0
+19A8779-219392,1/21/2016,1,2016,Patient Discharge,Successful,Home,1/25/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+35A463-242054,1/7/2016,1,2016,Patient Discharge,Successful,Skilled Nursing Facility,1/11/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+35A444-281954,12/16/2015,12,2015,Patient Discharge,Successful,Home,12/18/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+13A7825-285706,12/11/2015,12,2015,Patient Discharge,Successful,Home Health Care,12/14/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A2985-228759,12/23/2015,12,2015,Patient Discharge,Successful,Home,12/28/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+15A388-228750,12/24/2015,12,2015,Patient Discharge,Successful,Home,12/28/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A2966-228740,12/9/2015,12,2015,Patient Discharge,Successful,Home,12/11/2015,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+19A2964-228736,12/30/2015,12,2015,Patient Discharge,Successful,Home,1/5/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+21A218-228724,12/30/2015,12,2015,Patient Discharge,Successful,Home,1/5/2016,48-Hour Follow-Up Call,Successful,6,1,1,0
+19A2959-228728,12/31/2015,12,2015,Patient Discharge,Successful,Skilled Nursing Facility,1/4/2016,48-Hour Follow-Up Call,Successful,4,1,1,1
+38A095-205751,12/3/2015,12,2015,Patient Discharge,Successful,Home,12/8/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A4017-287979,12/23/2015,12,2015,Patient Discharge,Successful,Home,12/28/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A4016-242069,12/18/2015,12,2015,Patient Discharge,Successful,Home Health Care,12/21/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A1971-255275,12/24/2015,12,2015,Patient Discharge,Successful,Home,12/28/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+14A4770-277763,12/18/2015,12,2015,Patient Discharge,Successful,Home,12/21/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A2979-228754,12/23/2015,12,2015,Patient Discharge,Successful,Home,12/28/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A3943-287837,12/18/2015,12,2015,Patient Discharge,Successful,Home,12/21/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+18A834-287841,12/18/2015,12,2015,Patient Discharge,Successful,Home,12/21/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+33A353-201031,12/4/2015,12,2015,Patient Discharge,Successful,Skilled Nursing Facility,12/7/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A3941-209519,12/12/2015,12,2015,Patient Discharge,Successful,Hospital,12/14/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A0639-203727,12/4/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A7352-297795,12/5/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+24A327-281925,12/17/2015,12,2015,Patient Discharge,Successful,Home Health Care,12/21/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+40A474-226031,12/4/2015,12,2015,Patient Discharge,Successful,Hospital,12/7/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A3900-272088,12/3/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+20A502-292450,12/3/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+38A405-203741,12/3/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+19A6684-277761,12/2/2015,12,2015,Patient Discharge,Successful,Acute Rehab,12/4/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A8767-281963,12/17/2015,12,2015,Patient Discharge,Successful,Home,12/21/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A4562-292448,12/11/2015,12,2015,Patient Discharge,Successful,Skilled Nursing Facility,12/18/2015,48-Hour Follow-Up Call,Unsuccessful,7,1,0,0
+19A6686-277765,12/1/2015,12,2015,Patient Discharge,Successful,Home,12/3/2015,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+18A994-231755,12/5/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A6236-277403,12/3/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+18A0807-205768,12/18/2015,12,2015,Patient Discharge,Successful,Home,12/21/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+20A530-219393,12/4/2015,12,2015,Patient Discharge,Successful,Home,12/10/2015,48-Hour Follow-Up Call,Successful,6,1,1,0
+19A0652-203744,12/14/2015,12,2015,Patient Discharge,Successful,Home,12/21/2015,48-Hour Follow-Up Call,Successful,7,1,1,0
+19A0759-285709,12/23/2015,12,2015,Patient Discharge,Successful,Home,12/29/2015,48-Hour Follow-Up Call,Successful,6,1,1,0
+19A7756-279935,12/3/2015,12,2015,Patient Discharge,Successful,Home,12/7/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+17A1279-286123,12/7/2015,12,2015,Patient Discharge,Successful,Skilled Nursing Facility,12/11/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+18A401-255092,11/14/2015,11,2015,Patient Discharge,Successful,Skilled Nursing Facility,11/16/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+16A600-255060,11/25/2015,11,2015,Patient Discharge,Successful,Home,11/30/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A1679-267705,11/30/2015,11,2015,Patient Discharge,Successful,Skilled Nursing Facility,12/2/2015,48-Hour Follow-Up Call,Unsuccessful - Time Constraint,2,1,0,0
+19A9962-255263,11/27/2015,11,2015,Patient Discharge,Successful,Home,11/30/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+24A092-259933,11/5/2015,11,2015,Patient Discharge,Successful,Home,11/10/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A2640-286044,11/21/2015,11,2015,Patient Discharge,Successful,Home,11/24/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A0799-232841,11/10/2015,11,2015,Patient Discharge,Successful,Home,11/16/2015,48-Hour Follow-Up Call,Successful,6,1,1,0
+19A1835-255051,11/13/2015,11,2015,Patient Discharge,Successful,Skilled Nursing Facility,11/16/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A6244-277415,11/13/2015,11,2015,Patient Discharge,Successful,Home,11/17/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+18A7872-242400,11/7/2015,11,2015,Patient Discharge,Successful,Home,11/10/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+15A2971-277413,11/11/2015,11,2015,Patient Discharge,Successful,Home,11/16/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+19A6227-277395,11/14/2015,11,2015,Patient Discharge,Successful,Home,11/16/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A1961-255267,11/12/2015,11,2015,Patient Discharge,Successful,Home,11/16/2015,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+21A227-277407,11/12/2015,11,2015,Patient Discharge,Successful,Home,11/20/2015,48-Hour Follow-Up Call,Successful,8,1,1,0
+18A0814-233207,11/6/2015,11,2015,Patient Discharge,Successful,Home,11/10/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A8773-282005,11/23/2015,11,2015,Patient Discharge,Successful,Home,,,,,1,0,0
+14A4637-291631,11/4/2015,11,2015,Patient Discharge,Successful,Home,11/6/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+19A1967-255272,11/24/2015,11,2015,Patient Discharge,Successful,Home,11/30/2015,48-Hour Follow-Up Call,Successful,6,1,1,0
+19A1965-255270,11/13/2015,11,2015,Patient Discharge,Successful,Home,11/16/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+18A9193-231126,11/17/2015,11,2015,Patient Discharge,Successful,Home,,,,,1,0,0
+18A3941-210772,10/23/2015,10,2015,Patient Discharge,Successful,Home,10/26/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+17A4850-275893,10/23/2015,10,2015,Patient Discharge,Successful,Acute Rehab,10/26/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+18A314-233226,10/25/2015,10,2015,Patient Discharge,Successful,Home,10/27/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+15A7344-288094,10/14/2015,10,2015,Patient Discharge,Successful,Home,10/16/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+15A131-284311,10/30/2015,10,2015,Patient Discharge,Successful,Skilled Nursing Facility,11/3/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+15A7003-225995,10/16/2015,10,2015,Patient Discharge,Successful,Home,10/19/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+36A200-233220,10/30/2015,10,2015,Patient Discharge,Successful,Home,11/2/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+19A3956-287853,10/27/2015,10,2015,Patient Discharge,Successful,Home,10/29/2015,48-Hour Follow-Up Call,Unsuccessful,2,1,0,0
+15A0178-229704,10/1/2015,10,2015,Patient Discharge,Successful,Home,10/6/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+18A0809-205769,10/1/2015,10,2015,Patient Discharge,Successful,Home,10/5/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+31A063-205766,10/1/2015,10,2015,Patient Discharge,Successful,Home,10/5/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+19A7444-205928,10/30/2015,10,2015,Patient Discharge,Successful,Home,11/2/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+15A3282-238414,10/2/2015,10,2015,Patient Discharge,Successful,Home,10/6/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+18A9193-231126,10/1/2015,10,2015,Patient Discharge,Successful,Home,10/6/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+18A4043-237471,10/16/2015,10,2015,Patient Discharge,Successful,Home,,,,,1,0,0
+27A305-286102,10/29/2015,10,2015,Patient Discharge,Successful,Home,11/2/2015,48-Hour Follow-Up Call,Successful,4,1,1,1
+17A1322-270380,10/2/2015,10,2015,Patient Discharge,Successful,Home,10/5/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+17A4840-275879,10/22/2015,10,2015,Patient Discharge,Successful,Home,10/26/2015,48-Hour Follow-Up Call,Unsuccessful,4,1,0,0
+36A677-287974,10/28/2015,10,2015,Patient Discharge,Successful,Home,11/3/2015,48-Hour Follow-Up Call,Successful,6,1,1,0
+33A608-284052,10/14/2015,10,2015,Patient Discharge,Successful,Home,10/16/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+20A818-242395,10/29/2015,10,2015,Patient Discharge,Successful,Home,11/3/2015,48-Hour Follow-Up Call,Successful,5,1,1,1
+25A922-210767,10/23/2015,10,2015,Patient Discharge,Successful,Home,10/26/2015,48-Hour Follow-Up Call,Unsuccessful,3,1,0,0
+30A367-210764,10/9/2015,10,2015,Patient Discharge,Successful,Skilled Nursing Facility,10/12/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+15A7241-242854,10/14/2015,10,2015,Patient Discharge,Successful,Home,10/16/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+17A1286-286133,10/13/2015,10,2015,Patient Discharge,Successful,Home,10/15/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+18A2429-235336,10/24/2015,10,2015,Patient Discharge,Successful,Home Health Care,10/26/2015,48-Hour Follow-Up Call,Successful,2,1,1,1
+18A0797-205759,10/23/2015,10,2015,Patient Discharge,Successful,Home,10/26/2015,48-Hour Follow-Up Call,Successful,3,1,1,1
+18A0801-205762,10/5/2015,10,2015,Patient Discharge,Successful,Acute Rehab,10/15/2015,48-Hour Follow-Up Call,Successful,10,1,1,0
